@@ -1,0 +1,21 @@
+{
+    "currentOccupence": 2,
+    "name": "My Wardrobe",
+    "clothes": [
+        {
+            "colour": "White",
+            "gender": true,
+            "size": true,
+            "type": "T-shirt",
+            "brand": "Nike"
+        },
+        {
+            "colour": "Black",
+            "gender": false,
+            "size": false,
+            "type": "Jeans",
+            "brand": "Puma"
+        }
+    ],
+    "capacity": 30
+}

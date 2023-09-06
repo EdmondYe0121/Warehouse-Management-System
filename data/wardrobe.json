@@ -1,0 +1,12 @@
+{
+    "currentOccupence": 1,
+    "name": "test",
+    "clothes": [{
+        "colour": "white",
+        "gender": true,
+        "size": false,
+        "type": "jeans",
+        "brand": "nike"
+    }],
+    "capacity": 3
+}

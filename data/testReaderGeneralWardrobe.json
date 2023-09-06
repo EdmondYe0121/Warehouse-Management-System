@@ -1,0 +1,21 @@
+{
+  "clothes": [
+    {
+      "brand": "Nike",
+      "type": "T-shirt",
+      "colour": "White",
+      "gender": true,
+      "size": true
+    },
+    {
+      "brand": "Puma",
+      "type": "Jeans",
+      "colour": "Black",
+      "gender": true,
+      "size": true
+    }
+  ],
+  "name": "TestWardrobe",
+  "capacity": 30,
+  "currentOccupence": 2
+}
